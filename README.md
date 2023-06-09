@@ -5,4 +5,6 @@ Built with [Phaser.js](https://phaser.io/)
 </p>
 
 
+Demo at http://sreyanshbaranwal.me/spin-a-wheel/
+
 That's all Folks !! Enjoy.
